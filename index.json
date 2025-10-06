@@ -12,6 +12,10 @@
       "location": "Paris",
       "arrivalDate": "2025-06-10",
       "departureDate": "2025-06-15",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 300.00
+      },
       "activities": [
         {
           "title": "Eiffel Tower Visit",
@@ -27,6 +31,10 @@
       "location": "Rome",
       "arrivalDate": "2025-06-16",
       "departureDate": "2025-06-21",
+      "transportation": {
+        "mode": "Train",
+        "cost": 120.00
+      },
       "activities": [
         {
           "title": "Colosseum Tour",
@@ -35,6 +43,25 @@
         {
           "title": "Vatican Museums",
           "time": "3:30 PM"
+        }
+      ]
+    },
+    {
+      "location": "Amsterdam",
+      "arrivalDate": "2025-06-22",
+      "departureDate": "2025-06-26",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 180.00
+      },
+      "activities": [
+        {
+          "title": "Canal Boat Tour",
+          "time": "10:30 AM"
+        },
+        {
+          "title": "Van Gogh Museum Visit",
+          "time": "1:00 PM"
         }
       ]
     }
