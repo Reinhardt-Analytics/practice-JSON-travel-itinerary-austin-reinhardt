@@ -1,1 +1,42 @@
-
+{
+  "tripName": "European Adventure",
+  "traveler": {
+    "name": "Jordan Reyes",
+    "contact": {
+      "email": "jordan.reyes@example.com",
+      "phone": "555-987-6543"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2025-06-10",
+      "departureDate": "2025-06-15",
+      "activities": [
+        {
+          "title": "Eiffel Tower Visit",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Louvre Museum Tour",
+          "time": "2:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Rome",
+      "arrivalDate": "2025-06-16",
+      "departureDate": "2025-06-21",
+      "activities": [
+        {
+          "title": "Colosseum Tour",
+          "time": "11:00 AM"
+        },
+        {
+          "title": "Vatican Museums",
+          "time": "3:30 PM"
+        }
+      ]
+    }
+  ]
+}
